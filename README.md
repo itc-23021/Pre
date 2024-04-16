@@ -1,4 +1,4 @@
  ## 正規表現
-![RegexAdventure](images/RegexAdventure.png)
+![Regex Adventure](images/RegexAdventure.png)
 
 
