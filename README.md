@@ -2,7 +2,7 @@
 ![Regex Adventure](images/RegexAdventure.png)
 ![pazuru](images/pazuru.png)
 ![paiza](images/paiza.jpg)
-![learn](learngit1.jpg)
-![learn](learngit2.jpg) 
+![learn](images/learngit1.jpg)
+![learn](images/learngit2.jpg) 
 
 
